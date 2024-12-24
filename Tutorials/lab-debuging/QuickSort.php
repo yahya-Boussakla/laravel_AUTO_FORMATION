@@ -27,3 +27,5 @@ $array = [5, 3, 7, 2, 8, 5];
 $sorted = quickSort($array);
 
 echo "Tableau trié : " . implode(", ", $sorted);
+
+// php -S localhost:8000
